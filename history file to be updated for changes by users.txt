@@ -1,3 +1,0 @@
-creating a folder called ai prompt bot project for will writing and organ donation project
-
-added history row by row xlsx file to add images of learning done. For e.g. Screenshots of how first ull request of this repository was done. 
